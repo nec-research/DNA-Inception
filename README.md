@@ -1,5 +1,5 @@
 # DNA-Inception
-One of the hallmarks of cancer is somatic aberrations in the genomes and transcriptomes of malignant tumors, and this information offers a wealth of distinguishable tumor-specific events, that do not occur in normal tissue of the same individual. Here, we propose DNA-Inception, a convolutional neural network-based model, it follows a sequence-based approach to classify AS events specific to tumor tissues. DNA-Inception takes as an input DNA or RNA sequences of AS events and their corresponding labels based on whether each event occurs in tumor or normal tissue. The following figure shows the architecture of our model:
+One of the hallmarks of cancer is somatic aberrations in the genomes and transcriptomes of malignant tumors, this information offers a wealth of distinguishable tumor-specific events, that do not occur in normal tissue of the same individual. Here, we propose DNA-Inception, a convolutional neural network-based model, it follows a sequence-based approach to classify AS events specific to tumor tissues. DNA-Inception takes as an input DNA or RNA sequences of AS events and their corresponding labels, i.e., tumor-specific `1` or tissue-specific `0`. The following figure shows the architecture of our model:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,6 +20,7 @@ You can train the model using:
 python ./src/train_model.py --help
 ```
 
+Sample random data can be found in `./json` subfolder.
 
 ### Training and test datasets are available from: ###
 * Kim, Pora, et al. "ExonSkipDB: functional annotation of exon skipping event in human." Nucleic acids research 48.D1 (2020): D896-D907.
