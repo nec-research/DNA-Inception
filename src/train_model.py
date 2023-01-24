@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # coding=utf-8
-#        ST-tau
+#        DNA-Inception-training
 #
 #   File:     train_model.py
 #   Authors:  Israa Alqassem israa.alqassem@neclab.eu
