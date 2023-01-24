@@ -14,10 +14,10 @@ git clone https://github.com/nec-research/DNA-Inception.git
 You can train the model using:
 
 ```shell
-python3 ./src/train_model.py --help
+python ./src/train_model.py --help
 ```
 
 
-### Training and test datasets: ###
+### Training and test datasets are available from: ###
 * Kim, Pora, et al. "ExonSkipDB: functional annotation of exon skipping event in human." Nucleic acids research 48.D1 (2020): D896-D907.
 * Kahles, André, et al. "Comprehensive analysis of alternative splicing across tumors from 8,705 patients." Cancer cell 34.2 (2018): 211-224.
