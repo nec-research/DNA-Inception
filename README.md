@@ -1,6 +1,9 @@
 # DNA-Inception
-One of the hallmarks of cancer is somatic aberrations in the genomes and transcriptomes of malignant tumors, and this information offers a wealth of distinguishable tumor-specific events, that do not occur in normal tissue of the same individual. Here, we propose DNA-Inception, a convolutional neural network-based model, it follows a sequence-based approach to classify AS events specific to tumor tissues. DNA-Inception takes as an input DNA or RNA sequences of AS events and their corresponding labels based on whether each event occurs in tumor or normal tissue.
+One of the hallmarks of cancer is somatic aberrations in the genomes and transcriptomes of malignant tumors, and this information offers a wealth of distinguishable tumor-specific events, that do not occur in normal tissue of the same individual. Here, we propose DNA-Inception, a convolutional neural network-based model, it follows a sequence-based approach to classify AS events specific to tumor tissues. DNA-Inception takes as an input DNA or RNA sequences of AS events and their corresponding labels based on whether each event occurs in tumor or normal tissue. The following figure shows the architecture of our model:
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://github.com/nec-research/DNA-Inception/blob/main/figures/dnaincep_archi_font1_color2_round.png" width="648" height="312" alt="DNA-Inception" class="center"/>
 
 Using this software
 -------------------
