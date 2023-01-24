@@ -20,7 +20,7 @@ You can train the model using:
 python ./src/train_model.py --help
 ```
 
-Sample random data can be found in `./json` subfolder.
+An example input data format is provided in `./json`
 
 ### Training and test datasets are available from: ###
 * Kim, Pora, et al. "ExonSkipDB: functional annotation of exon skipping event in human." Nucleic acids research 48.D1 (2020): D896-D907.
