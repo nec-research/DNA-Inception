@@ -1,11 +1,9 @@
-#!/usr/bin/env python
-
 # coding=utf-8
 #        DNA-Inception-training
 #
 #   File:     train_model.py
-#   Authors:  Israa Alqassem israa.alqassem@neclab.eu
-#             Filippo Grazioli filippo.grazioli@neclab.eu
+#   Authors:  Israa Alqassem (israa.alqassem@neclab.eu)
+#             Filippo Grazioli (filippo.grazioli@neclab.eu)
 #
 #
 # NEC Laboratories Europe GmbH, Copyright (c) 2023, All rights reserved.
